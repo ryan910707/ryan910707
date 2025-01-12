@@ -1,8 +1,8 @@
-<h2 align="left">Hi, I'm Yi-Syuan Ke!</h2>
+<h1 align="center">Hi, I'm Yi-Syuan Ke!</h1>
 
 ###
 
-<p align="left">Master's Student | National Tsing Hua University<br>Department of Computer Science <br>LSA Lab | Advisor: Prof. Jerry Chou</p>
+<h4 align="center">Master's Student | National Tsing Hua University<br>Department of Computer Science <br>LSA Lab | Advisor: Prof. Jerry Chou</h4>
 
 ###
 
