@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Master's Student | National Tsing Hua University<br>Department of Computer Science <br>LSA Lab | Advisor: Prof. Jerry Chou</h4>
+<h4 align="center">Master Student | National Tsing Hua University<br>Department of Computer Science <br>LSA Lab | Advisor: Prof. Jerry Chou</h4>
 
 ###
 
